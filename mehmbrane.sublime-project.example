@@ -1,0 +1,17 @@
+{
+    "folders":
+    [
+        {
+            "follow_symlinks": true,
+            "path": "."
+        }
+    ],
+    "settings": {
+        "xdebug": {
+            "path_mapping": {
+                  "/var/www/mehmbrane.com/current/api/" : "C:/vagrant/projects/sofa_club/mehmbrane/backend/www/current/api/",
+              },
+             "url": "http://mehmbrane.local/api"
+        }
+    }
+}
